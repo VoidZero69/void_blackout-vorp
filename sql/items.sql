@@ -1,0 +1,2 @@
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('electricitypaper', 'Electricity Instructions Paper', '1', '1', 'item_standard', '1');
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('lockpick', 'Lockpick', '5', '1', 'item_standard', '1');

@@ -18,7 +18,7 @@ Join the [VORP Community Discord](https://discord.gg/23MPbQ6)
 ## Dependency
 - [VORP Core](https://github.com/VORPCORE/vorp-core-lua)
 - [VORP Inventory](https://github.com/VORPCORE/vorp_inventory-lua)
-- [fixwiring](https://github.com/VORPCORE/VORP-Character](https://github.com/VoidZero69/mx_fixwiring)
+- [fixwiring](https://github.com/VoidZero69/mx_fixwiring)
 - [lockpick](https://github.com/VoidZero69/lockpick)
 
 ## Disclaimers and Credits

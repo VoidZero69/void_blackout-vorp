@@ -1,5 +1,5 @@
 # void_blackout-vorp
-> A RedM Blackout middion for Vorp Core
+> A RedM Blackout mission for Vorp Core
 
 Join the [VORP Community Discord](https://discord.gg/23MPbQ6)
 
